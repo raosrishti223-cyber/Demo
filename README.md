@@ -1,2 +1,3 @@
 # Demo
-My first repo 
+My first repo
+Author-Srishti Rao
